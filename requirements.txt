@@ -1,0 +1,10 @@
+pandas
+numpy
+Faker
+sqlite3-api
+langchain
+langchain-groq
+langchain-community
+streamlit
+sentence-transformers
+pinecone-client
